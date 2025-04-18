@@ -1,0 +1,74 @@
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    width: 50vw;
+}
+
+.select-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    margin: 10px 0;
+}
+
+.select-button:not(.selected):not(.disabled) {
+    background-color: #007bff;
+    color: white;
+}
+
+.select-button.selected {
+    background-color: #28a745;
+    color: white;
+}
+
+.select-button.disabled {
+    background-color: #dee2e6;
+    cursor: not-allowed;
+}
+
+.selected-courses {
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    max-height: 170px;
+    /* justify-item: flex-end; */
+    overflow-y: scroll;
+    /* transform: translateX(10%) ; */
+}
+
+.selected-courses h4 {
+    margin: 0 0 10px 0;
+    color: #495057;
+}
+
+.selected-courses ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.selected-courses li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.selected-courses li button {
+    background: none;
+    border: none;
+    color: #dc3545;
+    cursor: pointer;
+    font-size: 1.2em;
+    padding: 0 5px;
+}
+
+.selected-courses li button:hover {
+    color: #c82333;
+}

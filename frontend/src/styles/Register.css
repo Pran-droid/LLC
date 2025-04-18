@@ -1,0 +1,129 @@
+.dashboard-description h5{
+    color: black;
+}
+
+.register-form{
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    min-height: 455px;
+    color: #fff;
+    border-radius: 10px;
+    background-color: #CCCCCC;
+    transition: all 0.3s;
+}
+
+    
+.register-form:hover{
+    box-shadow: 0 0 5px 0.1px #373c4f;
+}
+
+.form-authenticate{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+label{
+    color: black;
+    font-weight: 400;
+}
+
+.form-authenticate input{
+    margin: 0 5px;
+    padding: 2px 5px;
+    width: 50%;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+.form-rollno input:focus,
+.form-password input:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+}
+
+.form-authenticate input:placeholder-shown{
+    font-style: italic;
+}
+
+.form-authenticate input:focus{
+    outline: none;
+}
+
+.form-preference{
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    height: 60%;
+}
+
+.form-preference h2 , h5{
+    /* color: #5A57FF; */
+    color: #373c4f;
+}
+
+.form-choice{
+    width: 100%;
+    margin: 25px 0;
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    row-gap: 10px;
+}
+
+.form-choice1, .form-choice2, .form-choice3, .form-choice4{
+    margin: 5px 20%;
+}  
+
+.form-choice select{
+    width: 75%;
+    margin: 0 5px;
+    border: none;
+    border-radius: 5px;
+    padding: 2px 5px;
+}
+
+.form-choice select option[data-preselected="true"] {
+    background-color: #e3f2fd;
+    font-weight: 500;
+}
+
+.register-form button{
+    align-self: center;
+    /* margin-top: 20px; */
+    padding: 10px 20px;
+    background-color: #5A57FF;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.register-form button:hover{
+    background-color: #4a4aff;
+    cursor: pointer;
+    filter: drop-shadow(0 0 1.5em #646cffaa);
+}
+
+.register-form button:active{
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+.pre-selected-notice {
+    color: #007bff;
+    font-size: 0.9rem;
+    margin-top: 5px;
+    font-style: italic;
+}

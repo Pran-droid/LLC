@@ -1,0 +1,61 @@
+.tabs{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    font-weight: 600;
+    border-bottom: 2px solid #9e9dfd;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+    background-color: white;
+}
+
+.tab{
+    padding: 2px 0;
+    cursor: pointer;
+    color: #686868;
+    transition: all 0.3s;
+}
+.tab:hover{
+    color: black;
+}
+.tab.active {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    color: black;
+}
+
+.bar{
+    width: 50px;
+    height: 5px;
+    border-radius: 5px;
+    background-color: #5A57FF;
+    justify-self: center;
+}
+
+.course-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    grid-template-rows: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.card-body {
+    padding: 30px;
+    color: black;
+}
+
+.card h3 {
+    margin: 0 0 5px;
+    font-size: 20px;
+
+}
