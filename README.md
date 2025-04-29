@@ -23,5 +23,5 @@ A <b>MERN-stack</b> project based on a subject named <b>Liberal Learning Course<
       npm run dev
     </ol>
   </li>
-  <li>To view the application locate To: http://localhost:5173/</li>
+  <li>To view the application locate To: http://localhost:5173</li>
 </ol>
