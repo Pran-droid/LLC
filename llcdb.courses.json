@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a17"
+  },
+  "id": "LCC01",
+  "name": "Culinary Arts: Foundations of Cooking",
+  "image": "cook.jpg",
+  "category": "Art",
+  "description": "This course introduces students to the fundamentals of cooking, covering essential techniques, ingredients, and principles to develop culinary skills and creativity in the kitchen. Through hands-on cooking sessions, demonstrations, and tastings, students will gain practical experience and knowledge to create a variety of dishes."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a18"
+  },
+  "id": "LCC02",
+  "name": "Indian Aesthetics",
+  "image": "indian.jpg",
+  "category": "Art",
+  "description": "This course is for the students who have an interest in art. Indian Aesthetics is an ambitious, five thousand-year sweep of the field that delves deep into art history, archaeology, architecture, anthropology, literature, philosophy and visual culture to build an aesthetic and critical methodology to unpack Indian art."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a19"
+  },
+  "id": "LCC03",
+  "name": "Sketching",
+  "image": "sketch.jpg",
+  "category": "Art",
+  "description": "This course is also a great starting point for other areas of visual thinking, like graphic facilitation or sketch noting. Students can self-practice and learn to sketch user interfaces, user flows, UI animations and storyboards. Improving your sketching skills is going to be a great addition to your workflow as a UX, UI or product designer."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a1a"
+  },
+  "id": "LCC04",
+  "name": "Personality Development and People Management",
+  "image": "personality.jpg",
+  "category": "Lifestyle",
+  "description": "This course is used to remove public speaking as one of their biggest fears of a student. Good public speaking is more than a performance. It is the result of: Critical thinking, Well-organized narrative, Reasoning, Research and Preparation. In this course, methods that help to reduce anxiety, build confidence, and customize a process which will results in successful speaking experiences shall be taught."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a1b"
+  },
+  "id": "LCC05",
+  "name": "Work Life Balance",
+  "image": "worklife.jpg",
+  "category": "Lifestyle",
+  "description": "This course explores the concept of work-life balance and provides practical strategies for achieving harmony between professional responsibilities and personal well-being. Students will learn to identify sources of imbalance, develop time management skills, set boundaries, and cultivate habits that promote overall health and fulfilment."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a1c"
+  },
+  "id": "LCC06",
+  "name": "Art of Living",
+  "image": "living.jpg",
+  "category": "Lifestyle",
+  "description": "This course explores the principles and practices of living a fulfilling life through the lenses of mindfulness, self-awareness, emotional intelligence, and positive psychology. Students will learn practical tools and techniques to enhance their overall well-being, manage stress, and cultivate meaningful relationships. This course is introduced with a vision to nourish a balanced lifestyle for individuals and in the process contribute to create a stress-free and violence-free society."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a1d"
+  },
+  "id": "LCC07",
+  "name": "Yoga Vidya",
+  "image": "yoga.jpg",
+  "category": "Lifestyle",
+  "description": "Through this course, students will get an all-round experience of how Yoga can benefit their body, breath, emotions along with relaxation techniques to maintain a calm and balanced state of mind."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a1e"
+  },
+  "id": "LCC08",
+  "name": "First Aid and Self Defence",
+  "image": "aid.jpg",
+  "category": "Lifestyle",
+  "description": "This course is included with a mission to prevent loss of life and injury in the community. First Aid is the temporary help given to a sick or injured person before professional medical help can be provided. This timely assistance is most critical to victims, and in most cases, is life saving. A first-aiders immediate response in the first fifteen minutes after the incident is a determining factor of what will happen to the victim in the next one hour. A course is designed to teach students first aid procedures and lifesaving drills. This course will enable the student to recognize and avoid hazards within his/her environment; to intelligently assist in case of accident or illness; to develop skills necessary for immediate and temporary care of a victim. This course also teach self-defence and this concept s introduced with the motto that ‘you must accept responsibility for your own protection’. In this course student will be able to learn self defence, a new skill that will save his/her life. It is expected that the techniques demonstrated in each session is easy to understand and based on a reality-based scenario. There are many means of protecting yourself like hitting certain pressure points which will be demonstrated in the course."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a1f"
+  },
+  "id": "LCC09",
+  "name": "Fire Safety and Electronic Security",
+  "image": "fire.jpg",
+  "category": "Technical",
+  "description": "Fire hazard prevention is an important life skill necessary for any human being. In this course students will learn causes of fire, methods to prevent fire, handling equipment’s related to fire safety along with concepts of industrial safety. Course also deals with training on electronic safety equipment’s."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a20"
+  },
+  "id": "LCC10",
+  "name": "Sports Technology",
+  "image": "sport.jpg",
+  "category": "Sports",
+  "description": "This course delves into the intersection of sports and technology, examining how advancements in technology have revolutionized various aspects of sports performance, training, analysis, and fan engagement. Students will explore cutting-edge technologies, their practical applications in sports, and the implications for athletes, coaches, teams, and fans."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a21"
+  },
+  "id": "LCC11",
+  "name": "Athletics",
+  "image": "athlete.jpg",
+  "category": "Sports",
+  "description": "This course is introduced to create a sense of self discipline and importance of fitness in a person’s life. Appropriate Athletics attire is required for all students. Course instructor is expected to continually observe athletic skills in student, assess their skills and give positive encouragement for improvement. This course teaches the student sports skills that are essential to a variety of other activities. It also provides the students with a means for self-expression and social interaction. Long term goal is that the student will acquire basic athletics skills, appropriate social behavior and functional knowledge of the rules necessary to participate successfully in athletics competitions. Students enrolled in this course are expected to participate in Fr CRCE organized Marathon kind of events."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a22"
+  },
+  "id": "LCC12",
+  "name": "Aerobics and Fitness",
+  "image": "aerobic.jpg",
+  "category": "Sports",
+  "description": "This course is designed to offer the students a wide variety of cardiovascular fitness activities in order to physical wellness. Aerobics can be defined as group exercise to music, using large,continuous, rhythmic movements to elevate the heart rate and produce a training effect, enhancing cardiorespiratory endurance. This course will teach students knowledge of fundamental skills and techniques related to aerobics"
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a23"
+  },
+  "id": "LCC13",
+  "name": "Study of Dance Forms",
+  "image": "dance.jpg",
+  "category": "Art",
+  "description": "This course provides study of various Indian dance forms, exploring their history, techniques,cultural significance, and contemporary practices. Through discussions, practical workshops,demonstrations, and performances, students will develop a comprehensive understanding and appreciation of Indian dance traditions."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a24"
+  },
+  "id": "LCC14",
+  "name": "Introduction to Dramatics: Exploring Theatre Arts ",
+  "image": "drama.jpg",
+  "category": "Art",
+  "description": "This course introduces students to the fundamentals of dramatics, covering various aspects of theatre arts including acting techniques, play analysis, performance styles, and stagecraft.Through practical exercises, readings, discussions, and performances, students will develop their understanding and appreciation of dramatic literature and theatrical production."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a25"
+  },
+  "id": "LCC15",
+  "name": "Fundamentals of Photography",
+  "image": "photography.jpg",
+  "category": "Art",
+  "description": "This course is for students who want to have a first approach to the world of digital photography,both indoors and outdoors, starting with the basics of hotographic technique. The various photographic genres will be addressed by the portrait in studio and in a “household” - considering the use of tools and equipment vailable to the students - and the landscape, intended as a research of expression through special technical languages. Moreover, reportage and a specific focus on street photography, bird, nature and wildlife photography. Approach would be to build possible photographic service, through exercises “in the field” and the  introduction to topics of photo editing. The course shall end with a good story social media story created through clicked and edited photographs."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a26"
+  },
+  "id": "LCC16",
+  "name": "Cinematography",
+  "image": "cinematography.jpg",
+  "category": "Art",
+  "description": "This course explores the principles, techniques, and aesthetics of cinematography, focusing on the visual language of film and the role of the inematographer in storytelling. Through lectures, screenings,discussions, and hands-on exercises, students will develop a comprehensive understanding of the technical and creative aspects of cinematography."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a27"
+  },
+  "id": "LCC17",
+  "name": "Music Appreciation and Composition",
+  "image": "musics.jpg",
+  "category": "Art",
+  "description": "Music appreciation and composition is a basic course aimed at the enhancement of the student's capacity to enjoy music, and to the building of listening and analytical skills as well. This course will take students through the technical nuances of journey of music composition."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a28"
+  },
+  "id": "LCC18",
+  "name": "Script writing",
+  "image": "script.jpg",
+  "category": "Art",
+  "description": "This course will focus on how to brainstorm and develop your story. The students learn how to develop the story further using different tools of plotting, understanding the importance of structure, and focusing on how scenes are created and how they come together to function as one organic whole."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a29"
+  },
+  "id": "LCC19",
+  "name": "Vehicle Maintenance and Traffic Rules ",
+  "image": "vehicle.jpg",
+  "category": "Lifestyle",
+  "description": "This course teaches students how to keep their vehicles running smoothly and obey traffic rules.This course includes lecture and hands-on sessions where students work on their own vehicles, learning where things are located and the basics of correcting problems."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a2a"
+  },
+  "id": "LCC20",
+  "name": "Garden Design and Maintenance",
+  "image": "garden.jpg",
+  "category": "Lifestyle",
+  "description": "This course offers knowledge of the basics of gardening, how to design a garden and how to care for different types of plants. This course provides you an pportunity to design your own garden.Topics ranging from understanding soil types, selection of plants to caring for various flowers e.g. rose cultivation, are covered. Uses of fertilizers, the compositions of compounds that different types of plants require are taught in the course. The course largely benefits those in an urban setting as it also teaches indoor gardening as well as managing outdoor gardening. This course also teaches care for plants in greenhouses as well as the basics of the Nursery business, which included financial planning and production of flowers. In an age of inorganic farming where organic products are becoming costlier day by day, the course also teaches managing plants yielding vegetables, fruits and herbs. With this basic knowledge, in future, you can turn your hobby and passion into a money-making opportunity by starting your own gardening company."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a2b"
+  },
+  "id": "LCC21",
+  "name": "Managing Social Media",
+  "image": "social.jpg",
+  "category": "Technical",
+  "description": "Social media is an effective instrument for students to study and share their thoughts. Social media platforms make it easier to connect with experts and thought leaders in various fields. This course aims to help students create and curate content for Social media for the college. It is introduced to give students real life experience of curating social media contents by volunteering for college social media team. Fr CRCE has presence on many social media platforms. Students enrolled in this course will have an opportunity to collaborate with various departments, clubs and committees to create an impactful social media content."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a2c"
+  },
+  "id": "LCC22",
+  "name": "Server and Network Maintenance",
+  "image": "server.jpg",
+  "category": "Technical",
+  "description": "Today’s businesses rely heavily on IT infrastructure to operate efficiently and deliver services to their clients. Therefore, the importance of server and network maintenance cannot be overstated. Proper server maintenance can prevent downtime, enhance security, and extend the lifespan of equipment. College has a dedicated server room and large IT infrastructure across the campus. This course is introduced to give real life experience and learning opportunity to students by managing server and network of the college."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a2d"
+  },
+  "id": "LCC23",
+  "name": "Electrical Safety",
+  "image": "electrical.jpg",
+  "category": "Technical",
+  "description": "This course is introduced to help students in building up knowledge and skill on electrical safety. Students will learn importance of earthing and guidelines for providing earthing arrangements, Protection of the electrical equipment for safe use of electricity, Important electricity rules related to safety etc. This course will also give students opportunity to interact with experts from electrical safety industry. "
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a2e"
+  },
+  "id": "LCC24",
+  "name": "Mentoring of School Children ",
+  "image": "mentor.jpg",
+  "category": "Miscellaneous",
+  "description": "Fr CRCE students are regularly involved in mentoring school children through IIC or other social activities/clubs. This course is created to streamline school connect programs and appreciating students involved in such programs by giving them due credits. A student in a college mentors a student of school on a subject or topic which of relevance for the school student. The objective is to make peer to peer learning easy and effective. Through the mentoring of young children, college students can acquire valuable knowledge and social skills. Connecting science, technology and innovation with societal outcomes through such courses, will drive strong economic and social progress for India."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a2f"
+  },
+  "id": "LCC25",
+  "name": "Social Club Activities",
+  "image": "socialwork.jpg",
+  "category": "Miscellaneous",
+  "description": "Fr CRCE students take part actively in various social activities through clubs like NSS and Rotaract. Through this course students actively engaged in social activities through NSS/Rotaract will be awarded with due credits."
+},
+{
+  "_id": {
+    "$oid": "67fd00308e32f53889014a30"
+  },
+  "id": "LCC26",
+  "name": "Cultural Club Activities",
+  "image": "culture.jpg",
+  "category": "Miscellaneous",
+  "description": "Fr CRCE students take part actively in various cultural activities of the college through student council. This course is introduced to recognise their participation and leadership skills in organising various cultural events in the college. Cultural club is a unique platform for the students to come together and to express their cultural talents. It is expected that students actively engaged in cultural activities will work towards spreading awareness of rich Indian culture among students. Participation in cultural activities results in enhancement of the personal skills and experiences like confidence; self-presentation; teamwork and collaboration; time management and organizational skills; self-awareness; self-discipline; open mindedness to move beyond boundaries and experiment with different ideas; communication skills; the ability to cope with criticism and learn from them resulting in a whole new developed, changed and an improved person."
+}]
