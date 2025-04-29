@@ -7,12 +7,13 @@ A <b>MERN-stack</b> project based on a subject named <b>Liberal Learning Course<
 <ol>
   <li>Download the .zip file of this project & extract it.</li>
   <li>Open the extracted folder into your respective code editor.</li>
-  <li>Start a new terminal with your floder directory & run the following command -</li>
+  <li>Start a new terminal with your floder directory & run the following command -
     <ul>
-      <li>cd backend <br> npm install</li>
+      <li>npm install</li>
       <li>cd frontend <br> npm install</li>
     </ul>
-  <li>The player with 'X' starts first</li>
+  </li>
+  <li>llc.courses.json file must be imported into the mongodb compass.</li>
   <li>The player Wins under 3-conditions,
     <ol>
       <li>Supposed - 1 in 3 rows of the board is filled with thier symbol</li>
