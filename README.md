@@ -11,7 +11,7 @@ This application makes it easier for students to:
 - Access detailed information about each course.
 - Register their preferences (up to four choices).
 - Get allotted one course based on their preferences.
-- View their assigned course and schedule.
+- View their schedule.
 
 ---
 
@@ -51,7 +51,7 @@ Ensure the following are installed on your system before setup:
       npm run dev
     </ol>
   </li>
-  <li>To view the application locate To: http://localhost:5173</li>
+  <li>To view the application locate to :- <b> http://localhost:5173 </b> </li>
 </ol>
 
 ## 🎥 Demo Video & 🖼️Presentation
