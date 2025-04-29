@@ -53,3 +53,8 @@ Ensure the following are installed on your system before setup:
   </li>
   <li>To view the application locate To: http://localhost:5173</li>
 </ol>
+
+## 🎥 Demo Video
+
+- [Node.js](https://drive.google.com/file/d/1UxfohYdgaz3bnWZahbJnjhnpYzE8mp3Y/view?usp=sharing)
+- [MongoDB](https://www.mongodb.com/) (MongoDB Compass recommended)
