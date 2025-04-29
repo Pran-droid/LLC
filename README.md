@@ -21,7 +21,7 @@ A <b>MERN-stack</b> project based on a subject named <b>Liberal Learning Course<
       <li>For frontend -</li>
       cd frontend <br>
       npm run dev
-      <li>Supposed -  1 in 2 diagonals of the board is filled with thier symbol</li>
     </ol>
   </li>
+  <li>To view the application locate To: http://localhost:5173/</li>
 </ol>
