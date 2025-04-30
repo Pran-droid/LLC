@@ -57,4 +57,4 @@ Ensure the following are installed on your system before setup:
 ## ▶️ Demo Video & 🖼️Presentation
 
 - [Play](https://drive.google.com/file/d/1UxfohYdgaz3bnWZahbJnjhnpYzE8mp3Y/view?usp=sharing)
-- [View](https://www.mongodb.com/)
+- [View](https://drive.google.com/file/d/1ffmqkIRYSCD8dI1UOqKgjslGJt19RfTG/view?usp=sharing)
